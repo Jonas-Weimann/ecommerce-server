@@ -31,8 +31,8 @@ router.post("/",(req, res)=>{
     if(!producto.title || !producto.description || !producto.code || !producto.price || !producto.stock || !producto.category){
         return res.status(400).json({error: "Hay campos obligatorios faltantes"})
     }
-    const productosActualizados = productos.push(producto)
-    actualizarJSON("src/db/productos.json", productosActualizados)
+    productos.push(producto)
+    actualizarJSON("src/db/productos.json", productos)
     res.json({mensaje: "Producto agregado con éxito"})
 })
 

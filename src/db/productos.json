@@ -1,1 +1,32 @@
-[{"title":"producto posteado","description":"una descripcion random","code":"codigo","price":900,"stock":9999,"category":"limpiza","id":"ebc94c89-c3f0-4b73-8515-35c74b2e62be","status":true},{"title":"producto posteado","description":"una descripcion random","code":"codigo","price":900,"stock":9999,"category":"limpiza","id":"2783bb66-2ce2-475e-9c2e-bfbc617ce710","status":true},{"title":"producto posteado","description":"una descripcion random","code":"codigo","price":900,"stock":9999,"category":"limpiza","id":"6d3e224e-6594-4f4e-b3e3-a61e0009f157","status":true}]
+[
+    {
+        "title": "producto posteado",
+        "description": "una descripcion random",
+        "code": "codigo",
+        "price": 900,
+        "stock": 9999,
+        "category": "limpiza",
+        "id": "ebc94c89-c3f0-4b73-8515-35c74b2e62be",
+        "status": true
+    },
+    {
+        "title": "producto para el carrito",
+        "description": "una descripcion random",
+        "code": "codigo",
+        "price": 900,
+        "stock": 9999,
+        "category": "limpiza",
+        "id": "2783bb66-2ce2-475e-9c2e-bfbc617ce710",
+        "status": true
+    },
+    {
+        "title": "producto posteado",
+        "description": "una descripcion random",
+        "code": "codigo",
+        "price": 900,
+        "stock": 9999,
+        "category": "limpiza",
+        "id": "6d3e224e-6594-4f4e-b3e3-a61e0009f157",
+        "status": true
+    }
+]
